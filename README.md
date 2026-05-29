@@ -16,8 +16,7 @@
 ---
 
 ## 📸 تصویر اسکریپت
-![SMS Bomber](screenshot.png
-
+![SMS Bomber](screenshot.png)
 ---
 
 ## 🔥 قابلیت‌های پیشرفته
