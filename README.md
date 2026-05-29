@@ -16,7 +16,7 @@
 ---
 
 ## 📸 تصویر اسکریپت
-![SMS Bomber](screenshot.png.png
+![SMS Bomber](screenshot.png
 
 ---
 
