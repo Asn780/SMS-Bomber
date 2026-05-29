@@ -80,7 +80,6 @@ python main.py
 | `requirements.txt` | کتابخانه مورد نیاز (requests) |
 | `install.bat` | نصب خودکار در ویندوز |
 | `install.sh` | نصب خودکار در لینوکس/ترموکس |
-| `docs/` | مستندات تکمیلی (در حال توسعه) |
 
 ---
 
