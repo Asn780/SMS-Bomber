@@ -104,19 +104,6 @@ python main.py
 ╚═════════════════════════════════════════╝
 ```
 
----
-
-
-## 📞 راه های ارتباطی
-
-<p align="center">
-  <a href="https://t.me/Com1te">
-    <img src="https://img.shields.io/badge/Telegram-@Com1te-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
-</p>
-
----
-
 <p align="center">
   <strong>⭐ الا فتي إلا علي سيف إلا ذوالفقار ⭐</strong>
 </p>
