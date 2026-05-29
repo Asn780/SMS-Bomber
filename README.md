@@ -1,20 +1,20 @@
-# SMS Bomber
+# اس ام اس بمبر
 
-A powerful **SMS Bomber** tool for sending massive SMS to a target phone number.  
-Perfect for **educational purposes**, **stress testing**, and **security research**.
+یک ابزار قدرتمند **اس ام اس بمبر** برای ارسال انبوه پیامک به یک شماره تلفن هدف.  
+مناسب برای **اهداف آموزشی**، **تست استرس** و **تحقیقات امنیتی**.
 
-## Features
-- 50+ working SMS APIs
-- Multi-threading (fast)
-- Call bombing option
-- Colorful terminal UI
+## قابلیت‌ها
+- بیش از ۵۰ API فعال برای ارسال SMS
+- چندنخی (سریع)
+- گزینه بمباران تماس
+- محیط ترمینال رنگی
 
-## Keywords
-SMS bomber, SMS bomb, SMS spammer, bulk SMS sender, SMS flooder, SMS attack tool, phone spammer, SMS bomber tool, SMS bomber github, SMS bomber python
+## کلمات کلیدی
+اس ام اس بمبر، SMS بمب، اس ام اس اسپم، ارسال انبوه پیامک، SMS فلودر، ابزار حمله پیامکی، شماره اسپمر، ابزار اس ام اس بمبر، اس ام اس بمبر گیت هاب، اس ام اس بمبر پایتون
 
-## Installation (Termux/Linux/Windows)
+## نصب (ترموکس / لینوکس / ویندوز)
 ```bash
-git clone https://github.com/YOUR_USERNAME/SMS-Bomber.git
+git clone https://github.com/Asn780/SMS-Bomber.git
 cd SMS-Bomber
 pip install requests
 python main.py
