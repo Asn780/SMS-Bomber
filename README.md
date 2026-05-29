@@ -7,7 +7,6 @@
 
 ---
 
-## 📸 تصویر اسکریپت
 ![SMS Bomber](screenshot.png)
 ---
 
