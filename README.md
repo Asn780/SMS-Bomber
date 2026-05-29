@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Telegram-Com1te-blue?style=for-the-badge&logo=telegram">
 </p>
 
-<h1 align="center"> SMS-Bomber </h1>
+<h1 align="center"> SMS-Bomber | ابزار اسمس بمبر پیشرفته </h1>
 <p align="center">
 
 ---
