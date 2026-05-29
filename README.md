@@ -16,7 +16,7 @@
 ---
 
 ## 📸 تصویر اسکریپت
-![Demo](https://via.placeholder.com/600x300/1a1a1a/ff0000?text=Your+Screenshot+Here)
+![SMS Bomber](screenshot.png.png
 
 ---
 
