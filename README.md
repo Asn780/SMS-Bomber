@@ -6,12 +6,6 @@
 
 <h1 align="center"> SMS-Bomber </h1>
 <p align="center">
-  <strong>ابزار حرفه‌ای ارسال انبوه SMS و CALL برای تست امنیت و آموزش</strong>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a0a/00ff00?text=SMS+Bomber+Running" alt="Screenshot">
-</p>
 
 ---
 
