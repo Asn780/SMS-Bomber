@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Telegram-Com1te-blue?style=for-the-badge&logo=telegram">
 </p>
 
