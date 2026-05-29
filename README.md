@@ -107,7 +107,7 @@ python main.py
 ---
 
 
-## 📞 ارتباط با توسعه‌دهنده
+## 📞 راه های ارتباطی
 
 <p align="center">
   <a href="https://t.me/Com1te">
@@ -118,5 +118,5 @@ python main.py
 ---
 
 <p align="center">
-  <strong>⭐ اگر این پروژه برات مفید بود، بهش ستاره بده! ⭐</strong>
+  <strong>⭐ الا فتي إلا علي سيف إلا ذوالفقار ⭐</strong>
 </p>
